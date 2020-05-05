@@ -26,3 +26,8 @@ Provided nothing went wrong, the compiled code should be output to `a.out`. Now,
 ```SHELL
 ./a.out
 ```
+
+Congratulations! Here's to many more small steps.
+
+### Resources
+Books, videos, blog posts, and other materials useful for learning C and related topics will be added in [learning-c/resources/](https://github.com/Jonathan-Llovet/learning-c/tree/master/resources).
