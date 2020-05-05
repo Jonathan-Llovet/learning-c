@@ -4,7 +4,6 @@
 - [Advanced C Programming Course](https://www.udemy.com/course/advanced-c-programming-course/)
 - [DartmouthX and IMTx's C Programming with Linux](https://www.edx.org/professional-certificate/dartmouth-imtx-c-programming-with-linux)
 
-### History
-
-
 ### Talks and Discussions about C
+- [Why C is so Influential - Computerphile](https://www.youtube.com/watch?v=ci1PJexnfNE)
+- ["C" Programming Language: Brian Kernighan - Computerphile](https://www.youtube.com/watch?v=de2Hsvxaf8M)
