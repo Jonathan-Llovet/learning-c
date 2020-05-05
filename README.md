@@ -29,5 +29,5 @@ Provided nothing went wrong, the compiled code should be output to `a.out`. Now,
 
 Congratulations! Here's to many more small steps.
 
-### Resources
+## Resources
 Books, videos, blog posts, and other materials useful for learning C and related topics will be added in [learning-c/resources/](https://github.com/Jonathan-Llovet/learning-c/tree/master/resources).
