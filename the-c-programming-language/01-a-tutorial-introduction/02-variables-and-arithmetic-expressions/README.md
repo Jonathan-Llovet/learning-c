@@ -1,6 +1,6 @@
 # Variables and Arithmetic Expressions
 
-The second program uses a Fahrenheit-Celsius temperature converter to show how to work with basic types, along with the `while` and `for` control structures for iterating over collections of items.
+The second program uses a Fahrenheit-Celsius temperature converter to show how to work with basic types, along with the `while` control structure for iterating over collections of items.
 
 ## Basic Types
 
